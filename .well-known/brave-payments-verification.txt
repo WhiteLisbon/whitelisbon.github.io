@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: whitelisbon.github.io
+Token: 229432b42731f098067c70a57f067e4febb4e7c9bda393eb3c34fa87ec16380e
